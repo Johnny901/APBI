@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="318px" height="538px" viewBox="0 0 318 538" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Totara-12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1122.000000, -453.000000)">
+            <g id="Group" transform="translate(1122.000000, 453.000000)">
+                <polygon id="Rectangle" fill="#562877" transform="translate(238.500000, 134.500000) scale(-1, 1) translate(-238.500000, -134.500000) " points="159 -1.26926247e-13 318 92.3039216 318 269 159 176.696078"></polygon>
+                <polygon id="Rectangle" fill="#92278F" points="0 176 159 268.303922 159 445 0 352.696078"></polygon>
+                <polygon id="Rectangle" fill="#E6007E" transform="translate(238.500000, 444.000000) scale(-1, 1) translate(-238.500000, -444.000000) " points="159 350 318 444 159 538"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
